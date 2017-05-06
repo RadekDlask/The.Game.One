@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba824de28c73b91438017a13f93c2664, type: 3}
+  m_Name: SollarPlant
+  m_EditorClassIdentifier: 
+  Name: Sollar plant
+  Text: It generates amount of energy when sun is up.
+  Inputs:
+  - {fileID: 11400000, guid: 62cb699ce26ba09438f6c6e165a9a413, type: 2}
+  Outputs:
+  - {fileID: 11400000, guid: 91cd363a113b84f43b4719800bfb9899, type: 2}
