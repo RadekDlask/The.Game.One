@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 708653392c84a7c4fbcec363dea093d5, type: 3}
-  m_Name: ProducType
+  m_Name: MachinePart
   m_EditorClassIdentifier: 
-  Name: 
-  Text: 
+  Name: MachinePart
+  Text: Parts of machine

@@ -16,3 +16,4 @@ MonoBehaviour:
   StorableTypes:
   - {fileID: 11400000, guid: ac6025b8ed4b28d448f301aed1c39cc8, type: 2}
   - {fileID: 11400000, guid: d89b3347c89122b48a51fc914d183f03, type: 2}
+  - {fileID: 11400000, guid: b6f3072b60c7d714ebfdc09df01ddf5a, type: 2}
